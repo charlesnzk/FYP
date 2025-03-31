@@ -186,7 +186,7 @@ const DonationStatus = () => {
                   </div>
                   {donation.verification_status === 'verified' && (
                     <div style={{ marginTop: '1rem' }}>
-                      <label style={{ fontWeight: 'bold', marginRight: '0.5rem' }}>Finalise Donation:</label>
+                      <label style={{ fontWeight: 'bold', marginRight: '0.5rem' }}>Finalize Donation:</label>
                       <select
                         value={finalStatus}
                         onChange={(e) => setFinalStatus(e.target.value)}
