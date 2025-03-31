@@ -33,7 +33,7 @@ npm install
 Some accounts have been created beforehand for testing purposes
 
 <details>
-  <summary>Staff accounts:</summary>
+  <summary>Staff accounts: (Click to View)</summary>
   <ol>
     <li> admin (superuser)
       <ul>
@@ -69,7 +69,7 @@ Some accounts have been created beforehand for testing purposes
 </details>
 <br>
 <details>
-  <summary>Normal accounts:</summary>
+  <summary>Normal accounts: (Click to View)</summary>
   <ol>
     <li> Donor1
       <ul>
