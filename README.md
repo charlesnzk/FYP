@@ -14,7 +14,7 @@ Also, for frontend, open another terminal and navigate to the frontend directory
 ../donation_app/donations-frontend ><code> npm install <code>
 
 
-## Sample accounts in the database:
+Sample accounts in the database:
 Some accounts have been created beforehand for testing purposes
 
 Staff accounts:
@@ -49,7 +49,7 @@ Donor2
 Username: donor2
 Password: abcd@1234
 
-## Running the application
+Running the application
 To run the backend tests, make sure you are in the project directory
 
 <code> py manage.py test <code>
