@@ -12,7 +12,7 @@ cd donation_app
 ```
 pip install -r requirements.txt
 ```
-<br>
+
 Also, for frontend, open another terminal and navigate to the frontend directory
 
 ```
@@ -93,13 +93,13 @@ To run the backend tests, make sure you are in the project directory
 ```
 py manage.py test
 ```
-<br>
+
 To start the Django backend server, make sure you are in the project directory
 
 ```
 py manage.py runserver
 ```
-<br>
+
 To start the React development server, make sure you are in the frontend directory
 
 ```
