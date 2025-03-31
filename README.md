@@ -32,38 +32,6 @@ npm install
 
 Some accounts have been created beforehand for testing purposes
 
-* Staff accounts:
-
-admin (superuser)
-Username: admin
-Password: abcd@1234
-
-Moderator1
-Username: moderator1
-Password: abcd@1234
-
-Moderator2
-Username: moderator2
-Password: abcd@1234
-
-Volunteer1
-Username: volunteer1
-Password: abcd@1234
-
-Volunteer2
-Username: volunteer2
-Password: abcd@1234
-
-* Normal User Accounts:
-
-Donor1
-Username: donor1
-Password: abcd@1234
-
-Donor2
-Username: donor2
-Password: abcd@1234
-
 <details>
   <summary>Staff accounts:</summary>
   <ol>
@@ -133,9 +101,10 @@ py manage.py runserver
 ```
 <br>
 To start the React development server, make sure you are in the frontend directory
+
 ```
 npm start
 ```
 
 ## Upon starting the application successfully, you will see this landing page
-![Landing Page Screenshot](media/README/Landing_Page.png)
+![Landing Page Screenshot](donation_app/media/README/Landing_Page.png)
